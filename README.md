@@ -6,6 +6,12 @@ I build educational animations and open-source tools that explain technical idea
 
 **[TellMotion](https://github.com/YoelRuso/TellMotion)** — an open-source skill that turns an idea into a polished 2D explainer animation, with ready-made visual themes and Motion Canvas component packs.
 
+## 🚀 More projects
+
+- **[Sportly](https://github.com/YoelRuso/SportlyAngular)** — team project: a sports web app built with **Angular** and **Firebase** (Firestore).
+- **[Snake Multiplayer](https://github.com/Alejajandro05/Proyecto-Snake-multijugador)** — team project: a real-time multiplayer Snake game with **Phaser**, **Colyseus** and **Firebase**, running in **Docker**. The repository belongs to a teammate.
+- **ClipFarm** — a personal pipeline built on top of [BridgeClip](https://github.com/bridge-mind/bridgeclip) (open-source AI video clipping). It generates short clips, filters them with an AI reviewer, auto-fixes the ones that can be saved and tracks per-channel permissions. Built with **Python**, **FastAPI**, **SQLAlchemy** and **Alembic**. Not published yet.
+
 ## 🛠️ What I work with
 
 **Languages**
