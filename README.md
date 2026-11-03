@@ -11,6 +11,7 @@ I build educational animations and open-source tools that explain technical idea
 - **[Sportly](https://github.com/YoelRuso/SportlyAngular)** — team project: a sports web app built with **Angular** and **Firebase** (Firestore).
 - **[Snake Multiplayer](https://github.com/Alejajandro05/Proyecto-Snake-multijugador)** — team project: a real-time multiplayer Snake game with **Phaser**, **Colyseus** and **Firebase**, running in **Docker**. The repository belongs to a teammate.
 - **ClipFarm** — a personal pipeline built on top of [BridgeClip](https://github.com/bridge-mind/bridgeclip) (open-source AI video clipping). It generates short clips, filters them with an AI reviewer, auto-fixes the ones that can be saved and tracks per-channel permissions. Built with **Python**, **FastAPI**, **SQLAlchemy** and **Alembic**. Not published yet.
+- **[Finanzas App](https://github.com/YoelRuso/finanzas-app)** — a personal finance dashboard with spending charts, AI-powered receipt reading and advice. Built with **React**, **Express**, **Prisma** and **Gemini**.
 
 ## 🛠️ What I work with
 
